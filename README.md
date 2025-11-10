@@ -18,3 +18,5 @@ This project uses basic HTML elements:
     <strong> to highlight titles
 
 You can easily switch this to a book list by changing the heading and list content.
+
+see favorites_list.png for template
